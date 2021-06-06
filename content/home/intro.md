@@ -1,11 +1,11 @@
 ---
 widget: starter.blog.intro
-widget_id: starter
+widget_id: intro
 headless: true
 weight: 10
 title: Bizantech
 subtitle: Ilmu pengetahuan dan teknologi
-active: false
+active: true
 design:
   background:
     color: "#090a0b"
