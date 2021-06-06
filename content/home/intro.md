@@ -1,6 +1,6 @@
 ---
 widget: starter.blog.intro
-widget_id: title
+widget_id: starter.blog.intro
 headless: true
 weight: 10
 title: Bizantech
