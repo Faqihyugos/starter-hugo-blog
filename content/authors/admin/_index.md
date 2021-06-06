@@ -27,3 +27,5 @@ email: faqihyugos@gmail.com
 superuser: true
 ---
 Faqihyugos tinggal di kota Tangerang Selatan, Ia adalah mahasiswa dari Sekolah Tinggi Manajemen Informatika dan Komputer (STMIK) Jakarta stik, dengan program study Sistem Informatika. Memiliki minat pemrograman web, komputasi, dan materi yang dapat diprogram kan.
+
+Blog untuk dokumentasi tentang pemrograman, desain, dan materi kursus. Saya juga suka belajar teknologi, tapi saya sering lupa, itulah alasan saya menulis. Semoga dengan hadirnya blog ini dapat membantu teman-teman dan mahasiswa dalam belajar tentang teknologi.
