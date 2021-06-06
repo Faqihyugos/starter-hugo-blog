@@ -1,6 +1,6 @@
 ---
 widget: starter.blog.intro
-widget_id: RECENT-POSTS
+widget_id: title
 headless: true
 weight: 10
 title: Bizantech
