@@ -1,8 +1,8 @@
 ---
 title: Faqih Yugo Susilo
 role: Web Developer
-bio: My research interests include web programming, computing, and programmable
-  materials.
+bio: Minat saya meliputi pemrograman web, komputasi, dan materi yang dapat
+  diprogram.
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,7 +22,8 @@ education:
   courses:
     - course: Sistem Informasi
       institution: STMIK Jakarta
-      year: 2018
+      year: 2022
 email: faqihyugos@gmail.com
 superuser: false
 ---
+Faqihyugos tinggal di kota Tangerang Selatan, Ia adalah mahasiswa dari Sekolah Tinggi Manajemen Informatika dan Komputer (STMIK) Jakarta stik, dengan program study Sistem Informatika. Memiliki minat pemrograman web, komputasi, dan materi yang dapat diprogram kan.
