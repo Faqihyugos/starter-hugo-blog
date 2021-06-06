@@ -22,8 +22,8 @@ education:
   courses:
     - course: Sistem Informasi
       institution: STMIK Jakarta
-      year: 2022
+      year: ""
 email: faqihyugos@gmail.com
-superuser: false
+superuser: true
 ---
 Faqihyugos tinggal di kota Tangerang Selatan, Ia adalah mahasiswa dari Sekolah Tinggi Manajemen Informatika dan Komputer (STMIK) Jakarta stik, dengan program study Sistem Informatika. Memiliki minat pemrograman web, komputasi, dan materi yang dapat diprogram kan.
