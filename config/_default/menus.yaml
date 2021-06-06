@@ -12,4 +12,4 @@ main:
     weight: 20
   - name: Project
     url: project/
-    weight: 30
+    weight: 20
