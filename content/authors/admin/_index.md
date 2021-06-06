@@ -16,7 +16,13 @@ social:
     icon_pack: fab
     icon: instagram
 organizations:
-  - name: Stanford University
+  - name: Komputika
     url: ""
-superuser: true
+education:
+  courses:
+    - course: Sistem Informasi
+      institution: STMIK Jakarta
+      year: 2018
+email: faqihyugos@gmail.com
+superuser: false
 ---
